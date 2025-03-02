@@ -1,4 +1,4 @@
-Project Objective:
+Project Objective (had to do this solo because forgot to fill out form):
 
 The goal of this project is to model a simplified long jump competition, including the state transitions of jumpers, the management of competition time, and the interactions between jumpers, pits, and the runway. The model simulates the different stages of the competition, including when jumpers are on the runway, in the pit, and ready to jump. The model also ensures that rules are enforced, such as preventing jumpers from occupying multiple spots at once and ensuring that jumpers are correctly ordered in the competition. Overall, the model's goal is to model the flow of the competition. Initially, I wanted to model a more accurate long jump competition with the top 8 jumpers recorded, and after 3 rounds taking the top 8 jumpers and allowing them to get 3 more rounds of jumps, and finally recording the top 3 jumpers. 
 
